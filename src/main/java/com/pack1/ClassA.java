@@ -4,5 +4,7 @@ public class ClassA {
 
     public static void main(String[] args) {
         System.out.println("Hello, this is a normal Java project");
+        System.out.println("Hello, this is a fucking Java project");
+
     }
 }
